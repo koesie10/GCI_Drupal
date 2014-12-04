@@ -6,3 +6,11 @@
 	path = modules/xmlsitemap
 	url = git://git.drupal.org/project/xmlsitemap.git
 	branch = 8.x-1.x
+[submodule "modules/libraries"]
+	path = modules/libraries
+	url = git://git.drupal.org/project/libraries.git
+	branch = 8.x-3.x
+[submodule "themes/business"]
+	path = themes/business
+	url = git://git.drupal.org/project/business.git
+	branch = 8.x-1.x
