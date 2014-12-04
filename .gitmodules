@@ -2,3 +2,7 @@
 	path = modules/captcha
 	url = git://git.drupal.org/project/captcha.git
 	branch = 8.x-1.x
+[submodule "modules/xmlsitemap"]
+	path = modules/xmlsitemap
+	url = git://git.drupal.org/project/xmlsitemap.git
+	branch = 8.x-1.x
