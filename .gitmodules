@@ -1,0 +1,4 @@
+[submodule "modules/captcha"]
+	path = modules/captcha
+	url = git://git.drupal.org/project/captcha.git
+	branch = 8.x-1.x
