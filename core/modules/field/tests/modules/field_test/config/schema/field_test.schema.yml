@@ -1,0 +1,48 @@
+field.formatter.settings.field_test_multiple:
+  type: mapping
+  label: 'field_test display format settings'
+  mapping:
+    test_formatter_setting_multiple:
+      type: string
+      label: 'Test setting'
+    alter:
+      type: boolean
+      label: 'Test altering'
+
+field.widget.settings.test_field_widget_multiple:
+  type: mapping
+  label: 'field_test display format settings'
+  mapping:
+    test_widget_setting_multiple:
+      type: string
+      label: 'Test setting'
+
+field.storage_settings.test_field:
+  type: mapping
+  label: 'Test field settings'
+  mapping:
+    test_field_storage_setting:
+      type: string
+      label: 'Test field storage setting'
+    changeable:
+      type: string
+      label: 'A changeable field storage setting'
+    unchangeable:
+      type: string
+      label: 'An unchangeable field storage setting'
+
+field.field_settings.test_field:
+  type: mapping
+  label: 'Test field settings'
+  mapping:
+    test_field_setting:
+      type: string
+      label: 'Test field setting'
+
+field.value.test_field:
+  type: mapping
+  label: 'Default value'
+  mapping:
+    value:
+      type: label
+      label: 'Value'
