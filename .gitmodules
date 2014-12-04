@@ -10,3 +10,7 @@
 	path = themes/omega
 	url = git://git.drupal.org/project/omega.git
 	branch = 8.x-5.x
+[submodule "modules/admin_menu"]
+	path = modules/admin_menu
+	url = git://git.drupal.org/project/admin_menu.git
+	branch = 8.x-3.x
