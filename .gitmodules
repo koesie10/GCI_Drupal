@@ -6,11 +6,11 @@
 	path = modules/libraries
 	url = git://git.drupal.org/project/libraries.git
 	branch = 8.x-3.x
-[submodule "themes/omega"]
-	path = themes/omega
-	url = git://git.drupal.org/project/omega.git
-	branch = 8.x-5.x
 [submodule "modules/admin_menu"]
 	path = modules/admin_menu
 	url = git://git.drupal.org/project/admin_menu.git
 	branch = 8.x-3.x
+[submodule "themes/adaptivetheme"]
+	path = themes/adaptivetheme
+	url = git://git.drupal.org/project/adaptivetheme.git
+	branch = 8.x-1.x
